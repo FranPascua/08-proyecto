@@ -1,6 +1,14 @@
 body{
     background-color: black;
+    background-image: url(/assets/FODFNDNDNDND.jpeg)  ;
+    background-size: cover;
 }
 h1{
-    color: white;
+    color: rgb(255, 255, 255);
+}
+header{
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
 }
