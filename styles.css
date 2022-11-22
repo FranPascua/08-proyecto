@@ -29,7 +29,7 @@ hr{
     font-family: 'ben10';
     color: rgb(255, 255, 255);
     font-size: 2em;
-
+    text-align: center;
     height: 10em;
     border-style: solid;
     border-color: green;
@@ -41,6 +41,7 @@ hr{
 }
 main{
     background-color: rgba(70, 230, 70, 0.089);
+    text-align: center;
 }
 .carousel-inner{
     font-family: 'ben10';
