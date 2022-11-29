@@ -42,9 +42,10 @@ hr{
     border-color: green;
     padding-top: 0.5%;
     padding-bottom: 16.5%;
-    margin-right: 15%;
-    margin-left: 15%;
+    margin-right: auto;
+    margin-left: auto;
     background-color: rgba(70, 230, 70, 0.089);
+
 }
 .container_serie{
     padding-top: 0.5%;
